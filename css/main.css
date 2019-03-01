@@ -177,21 +177,21 @@ template {
 
 @font-face {
     font-family: 'AO Mono Black';
-    src: url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoBlack.woff2") format("woff2"), url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoBlack.woff") format("woff"), url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoBlack.ttf") format("truetype");
+    src: url("../fonts/AOMonoBlack.woff2") format("woff2"), url("../fonts/AOMonoBlack.woff") format("woff"), url("../fonts/AOMonoBlack.ttf") format("truetype");
     font-weight: normal;
     font-style: normal
 }
 
 @font-face {
     font-family: 'AO Mono Bold';
-    src: url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoRegular.woff2") format("woff2"), url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoRegular.woff") format("woff"), url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoRegular.ttf") format("truetype");
+    src: url("../fonts/AOMonoRegular.woff2") format("woff2"), url("../fonts/AOMonoRegular.woff") format("woff"), url("../fonts/AOMonoRegular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal
 }
 
 @font-face {
     font-family: 'AO Mono';
-    src: url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoBold.woff2") format("woff2"), url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoBold.woff") format("woff"), url("file:///C:/Users/tyler/www.nicocherubin.com/fonts/AOMonoBold.ttf") format("truetype");
+    src: url("../fonts/AOMonoBold.woff2") format("woff2"), url("../fonts/AOMonoBold.woff") format("woff"), url("../fonts/AOMonoBold.ttf") format("truetype");
     font-weight: normal;
     font-style: normal
 }
